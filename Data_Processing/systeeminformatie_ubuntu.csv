@@ -1,0 +1,2 @@
+﻿computernaam,computermodel,processor,aantal_fysieke_cpu_cores,maximale_cpu_frequentie_mhz,totale_hoeveelheid_ram_gb,bestandssysteem_opslag,opslagcapaciteit_gb,mac_adres_primaire_nic,ipv4_adres_primaire_nic,ipv6_adres_primaire_nic,ipv6_link_local_adres_primaire_nic
+r1094831-VirtualBox,x86_64,x86_64,1,0.0,4.73,ext4,24.44,08:00:27:4c:9f:e5,10.0.2.15,fd17:625c:f037:2:a00:27ff:fe4c:9fe5,fe80::a00:27ff:fe4c:9fe5
