@@ -1,0 +1,14 @@
+{
+  "computernaam": "Unluckydodo",
+  "computermodel": "AMD64",
+  "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+  "aantal_fysieke_cpu_cores": 3,
+  "maximale_cpu_frequentie_mhz": 2301.0,
+  "totale_hoeveelheid_ram_gb": 7.31,
+  "bestandssysteem_opslag": "NTFS",
+  "opslagcapaciteit_gb": 236.03,
+  "mac_adres_primaire_nic": "70-9C-D1-E9-BE-BB",
+  "ipv4_adres_primaire_nic": "10.122.1.56",
+  "ipv6_adres_primaire_nic": null,
+  "ipv6_link_local_adres_primaire_nic": null
+}
